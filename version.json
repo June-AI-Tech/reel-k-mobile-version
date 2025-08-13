@@ -2,7 +2,7 @@
 	"versions": {
 		"latestAndroidVersion": "0.2.1",
 		"latestIosVersion": "0.2.1",
-		"testLatestAndroidVersion": "0.2.2",
-		"testLatestIosVersion": "0.2.2"
+		"testLatestAndroidVersion": "0.2.1",
+		"testLatestIosVersion": "0.2.1"
 	}
 }
